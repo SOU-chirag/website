@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Itim', cursive;
+}
+
+p
+ {
+    text-align: center;
+    font-weight: 200px;
+    padding-bottom: 22px;
+    
+}
+h1,h2,h3{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 35px;
+
+}
+
+
+*{
+    color: black;
+}
+.video{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: -2;
+}
